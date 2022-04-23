@@ -1,0 +1,47 @@
+.ui__svg-logo{
+	fill: red;
+	width: 8rem;
+}
+
+.ui__btn-small{
+	background-color: $p-red;
+	padding: 0.5rem 0.8rem;
+	text-decoration: none;
+	color: $color-font;
+	border-radius: 0.2rem;
+	font-size: 1.5rem;
+}
+.ui__btn-mid{
+	background-color: $p-red;
+	padding: 1rem 2rem;
+	text-decoration: none;
+	color: $color-font;
+	border-radius: 0.2rem;
+	font-size: 1.6rem;
+}
+.ui__btn-center{
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 1rem;
+}
+.ui__input-big{
+	margin: 0 auto;
+	font-size: 1.6rem;
+	display: flex;
+	align-items: center;
+	padding: 1.2rem; 
+	width: 23rem
+}
+
+.ui__line{
+	background-color: $p-gray;
+	width: 100vw;
+	height: 1rem;
+}
+
+.ui__mb-2{
+	margin-bottom: 2rem;
+}
+.ui__mb-5{
+	margin-bottom: 5rem;
+}
